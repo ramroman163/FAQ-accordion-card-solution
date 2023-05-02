@@ -171,8 +171,11 @@ footer{
     transition: 1s all ease;
 }
 
-.rotar{
+.arrow{
     transition: transform ease .3s;
+}
+
+.rotar{
     transform: rotate(180deg);
 }
 
